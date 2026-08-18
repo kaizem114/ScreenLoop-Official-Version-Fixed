@@ -663,9 +663,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b91f580e91a8f3949a9b60bc06e33542, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Move_speed: 8
+  Move_speed: 4.2
   Player_rb: {fileID: 1390701544}
   Player_ears: {fileID: 0}
+  sensY: 100
+  sensX: 100
+  orientation: {fileID: 547246541}
+  cam: {fileID: 963194225}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
