@@ -122,6 +122,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &126306525
 GameObject:
   m_ObjectHideFlags: 0
@@ -153,6 +154,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of b868bc0 (Added a computer model to the game)
 --- !u!1001 &314169130
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -183,6 +186,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2e9e95a65cb3da1468f47be07e60a202, type: 3}
       propertyPath: m_LocalPosition.z
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: -5.66
 =======
@@ -192,6 +196,9 @@ PrefabInstance:
       value: -5.66
 >>>>>>> 24dc6a35f08287c808e43a4039f00a7db4a91226
 >>>>>>> Stashed changes
+=======
+      value: -1.629
+>>>>>>> parent of b868bc0 (Added a computer model to the game)
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2e9e95a65cb3da1468f47be07e60a202, type: 3}
       propertyPath: m_LocalRotation.w
@@ -349,13 +356,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705507993}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.96572196, y: -0.19480754, z: -0.17040364, w: -0.019843532}
+  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: -6.011, y: -161.145, z: -158.189}
+  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -709,6 +716,7 @@ MonoBehaviour:
   sensX: 100
   orientation: {fileID: 547246541}
   cam: {fileID: 963194225}
+<<<<<<< HEAD
 --- !u!1 &1564477419
 GameObject:
   m_ObjectHideFlags: 0
@@ -803,6 +811,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 48.742, y: -202.987, z: -188.611}
+=======
+>>>>>>> parent of b868bc0 (Added a computer model to the game)
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -811,5 +821,8 @@ SceneRoots:
   - {fileID: 1390701543}
   - {fileID: 1263876531}
   - {fileID: 314169130}
+<<<<<<< HEAD
   - {fileID: 1564477421}
   - {fileID: 126306526}
+=======
+>>>>>>> parent of b868bc0 (Added a computer model to the game)
