@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class os_system : MonoBehaviour
 {
     public GameObject lobby;
+    public GameObject browser;
     // Start is called before the first frame update
     void Start()
     {
@@ -21,14 +22,22 @@ public class os_system : MonoBehaviour
         lobby.gameObject.SetActive(false);
     }
     //Give access to internet
+    public void Browser()
+    {
 
+        lobby.gameObject.SetActive(false);
+    }
 
     //Go to the Minigame
+    public void Minigame()
+    {
 
+        lobby.gameObject.SetActive(false);
+    }
 
 
     //Turn on or off the computer
-  
+
     void Update()
     {
         
